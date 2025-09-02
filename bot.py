@@ -5,7 +5,7 @@ import os
 API_ID = 23212132      # from https://my.telegram.org
 API_HASH = "1c17efa86bdef8f806ed70e81b473c20"
 BOT_TOKEN = "8125914573:AAG3zY96757uoIGVKSDC0y_KbifIX_uL4So"
-OPENAI_KEY = "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"
+OPENAI_KEY = "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"
 
 # Configure OpenAI
 openai.api_key = OPENAI_KEY
